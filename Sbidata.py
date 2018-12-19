@@ -1,4 +1,4 @@
-#This project on python when Run it, internet Should be install otherwise Show message Error
+#This project on python when Run it, internet Should be available otherwise Show message Error
 #How to use(Copy Code and paste editor, save and run, )
 #Import Some important module
 
